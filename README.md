@@ -8,7 +8,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/bluectx/Rust-Complete-Pack2?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/bluectx/Rust-Complete-Pack2?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bluectx/Rust-Complete-Pack2?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/bluectx/Rust-Complete-Pack2?label=License&style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT%20%2B%20Attribution-blue?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge)
 
 ---
