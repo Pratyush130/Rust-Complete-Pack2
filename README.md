@@ -4,11 +4,11 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/bluectx/count.svg)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbluectx%2FRust-Complete-Pack2&label=Visitors&countColor=%23263759&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/bluectx/Rust-Complete-Pack2?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/bluectx/Rust-Complete-Pack2?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bluectx/Rust-Complete-Pack2?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/bluectx/Rust-Complete-Pack2?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/bluectx/Rust-Complete-Pack2?label=License&style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge)
 
 ---
@@ -19,7 +19,7 @@ Salut à tous, c'est BlueCtx !
 
 Je suis content de vous dévoiler et partager mon guide spécial Rust, car je sais à quel point les personnes qui débutent ont du mal et décrochent rapidement.
 
-Ce guide est structuré simplement avec une façon de parler simple également pour que tout le monde puisse comprendre.
+Ce guide est structuré simplement avec une façon de parler simple pour que tout le monde puisse comprendre.
 
 Lancez-vous dans cette aventure de **+7000 lignes** en espérant que vous ressortirez maître de Rust !
 
